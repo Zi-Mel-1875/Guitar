@@ -1,0 +1,3 @@
+-Guitar Type:
+-Number Of Strings:
+-Right Handed:
