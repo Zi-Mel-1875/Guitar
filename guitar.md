@@ -1,5 +1,5 @@
 -Guitar Type:
-Explorer
+Telecaster
 -Number Of Strings:
 7 strings
 -Right Handed:
