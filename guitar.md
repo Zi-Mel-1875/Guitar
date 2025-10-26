@@ -1,6 +1,6 @@
 -Guitar Type:
-Telecaster
+Explorer
 -Number Of Strings:
-7 strings
+6 strings
 -Right Handed:
-Yes
+No
