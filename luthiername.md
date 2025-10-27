@@ -1,1 +1,1 @@
-We are going to use Ken Laurence for this build.
+We are going to use Paul Reed Smith for this build.
